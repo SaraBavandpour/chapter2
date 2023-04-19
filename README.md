@@ -67,10 +67,18 @@ You can decide what others do with your code if you choose the right option in n
 
 Now you have created a new repository.
 
-# Now I want to enter the desired code in the repository I made
+
+
+# Now I want to import the desired code from the desired address on the repository.
+
+Because I already installed GitHub on my desktop, I use the following option.
+
+![1](https://user-images.githubusercontent.com/130504287/233190112-1d17d257-a267-44e0-8dbb-8a1e7c436e2b.png)
+![2](https://user-images.githubusercontent.com/130504287/233191047-ec41210a-0b72-41fc-ad09-2101fc0d4a6e.png)
+
+After my GitHub is opened from the desktop, I clone it in an empty file that I made before.
+I select the path of the empty file using the brows option
 
 
 
-
-
-
+![4](https://user-images.githubusercontent.com/130504287/233191373-8d5f1ff7-2df5-4262-a0e2-4d13001adfe7.png)
