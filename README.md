@@ -20,3 +20,24 @@ and enter the information correctly.
 Congratulations, you now have a GitHub account
 
 
+
+# Next, I want to create a new repository!
+![4 1](https://user-images.githubusercontent.com/130504287/233145194-1f96841e-d695-4162-99ee-63d297ad85cc.png)
+
+
+
+![5](https://user-images.githubusercontent.com/130504287/233147879-b5deeacd-5839-4854-82e8-cbe046f01611.png)
+
+In rectangle number 3 you have to choose a name for your repository. 
+If you want everyone to see your repository, choose number 4, Otherwise, select the private option.
+If you choose number 5, you can publish information about your repository like me.
+
+
+
+When sharing your code with others, there are often files or parts of your project, you do not want to share.
+In this case, choose number 6!
+![6](https://user-images.githubusercontent.com/130504287/233148867-a6189911-c803-4638-9a8f-60920f24c889.png)
+
+
+
+
