@@ -79,6 +79,7 @@ To do this, follow the steps below
 Select the desired file
 
 ![PacktPublishing_Python-Object-Oriented-Programming---4th-edition_ Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt - Google Chrome 4_20_2023 12_01_21 AM](https://user-images.githubusercontent.com/130504287/233194921-f1f90623-ef6e-4934-b01a-cbf698016d61.png)
+After completing the step, the desired folder will be uploaded in your repository.
 
 
 
@@ -86,6 +87,7 @@ Select the desired file
 
 
 
+# Import code from GitHub to VS Code
 
 Because I already installed GitHub on my desktop, I use the following option.
 
