@@ -36,11 +36,8 @@ test_point = """
 >>> print(point1.calculate_distance(point1))
 0.0
 """
-Point1 = Point()
-Point2 = Point()
-Point1.move(1, 6)
-Point2.move(4, 9)
-print(Point1.calculate_distance(Point2))
+
+
 
 
 __test__ = {name: case for name, case in globals().items() if name.startswith("test_")}
