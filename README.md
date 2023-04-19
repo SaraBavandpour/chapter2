@@ -82,3 +82,15 @@ I select the path of the empty file using the brows option
 
 
 ![4](https://user-images.githubusercontent.com/130504287/233191373-8d5f1ff7-2df5-4262-a0e2-4d13001adfe7.png)
+
+
+
+After loading, I open the code in VS Code using the following option
+
+
+![5](https://user-images.githubusercontent.com/130504287/233192061-c8757e28-4cb4-4fd2-8624-9236714693b5.png)
+
+![6](https://user-images.githubusercontent.com/130504287/233192084-6a4f6dfe-6440-47c9-9db8-5b3efc774f3b.png)
+
+![7](https://user-images.githubusercontent.com/130504287/233192138-f5dd4d91-26c3-426d-b563-b61d0a92de9c.png)
+
