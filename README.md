@@ -70,6 +70,22 @@ Now you have created a new repository.
 
 
 # Now I want to import the desired code from the desired address on the repository.
+To do this, follow the steps below
+
+![1](https://user-images.githubusercontent.com/130504287/233194443-898593b1-ef8f-439b-a83b-d273a4732aae.png)
+
+![PacktPublishing_Python-Object-Oriented-Programming---4th-edition_ Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt - Google Chrome 4_20_2023 12_00_59 AM](https://user-images.githubusercontent.com/130504287/233194671-079643ef-fc91-4096-84e0-becf6bf25612.png)
+
+Select the desired file
+
+![PacktPublishing_Python-Object-Oriented-Programming---4th-edition_ Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt - Google Chrome 4_20_2023 12_01_21 AM](https://user-images.githubusercontent.com/130504287/233194921-f1f90623-ef6e-4934-b01a-cbf698016d61.png)
+
+
+
+
+
+
+
 
 Because I already installed GitHub on my desktop, I use the following option.
 
