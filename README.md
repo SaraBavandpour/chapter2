@@ -34,9 +34,22 @@ If you choose number 5, you can publish information about your repository like m
 
 
 
+
 When sharing your code with others, there are often files or parts of your project, you do not want to share.
 In this case, choose number 6!
 ![6](https://user-images.githubusercontent.com/130504287/233148867-a6189911-c803-4638-9a8f-60920f24c889.png)
+
+
+
+
+
+
+
+![نرم افزار قرار دادن واترمارک روی عکس (برای ویندوز) - TSR Watermark Image Windows 3 5 7 6 - Google Chrome 4_19_2023 8_43_12 PM](https://user-images.githubusercontent.com/130504287/233150798-6a6474a0-3e03-41cf-9733-acc3a2bc8408.png)
+
+
+
+You can decide what others do with your code if you choose the right option in number 7.
 
 
 
