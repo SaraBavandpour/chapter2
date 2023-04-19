@@ -52,5 +52,12 @@ In this case, choose number 6!
 You can decide what others do with your code if you choose the right option in number 7.
 
 
+Now you have created a new repository.
+
+# Now I want to enter the desired code in the repository I made
+
+
+
+
 
 
