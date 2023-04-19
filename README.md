@@ -1,5 +1,18 @@
 # chapter2
 
+# Enter point2 in VSCode before using GitHub
+
+![Steven_F_Lott_Dusty_Phillips_Python_Object_Oriented_Programming (2) pdf - Google Chrome 4_19_2023 10_44_56 PM](https://user-images.githubusercontent.com/130504287/233178122-1ac1aa69-6923-4bfd-b56e-cea139061046.png)
+![Steven_F_Lott_Dusty_Phillips_Python_Object_Oriented_Programming (2) pdf - Google Chrome 4_19_2023 10_45_18 PM](https://user-images.githubusercontent.com/130504287/233178153-c5e9eeb0-e24c-40cc-9a0f-6db5141562eb.png)
+![● point_2 py - Visual Studio Code 4_19_2023 10_46_04 PM](https://user-images.githubusercontent.com/130504287/233178253-e25b9e40-6535-49a0-be1c-6f73d9fa7331.png)
+![● point_2 py - Visual Studio Code 4_19_2023 10_46_18 PM](https://user-images.githubusercontent.com/130504287/233178325-e9f861d0-f106-455b-b7d4-f2cad75c9dde.png)
+
+
+
+
+
+
+
 # Follow the steps below to create an account on GitHub.
 If you do not have an account, select the sign-up option.
 
