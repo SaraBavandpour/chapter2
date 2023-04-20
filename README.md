@@ -31,7 +31,7 @@ Your account will be created if you fill in the blanks correctly!
 ![1 1 - Copy](https://user-images.githubusercontent.com/130504287/233142680-3ba82fef-469f-4ac4-a4b1-ea4406fa7b36.png)
 ![3](https://user-images.githubusercontent.com/130504287/233143120-6bd686e4-1f98-4e63-b857-b1cf457a4c36.png)
 
-Congratulations, you now have a GitHub account
+Congratulations, you now have a GitHub account!
 
 
 
