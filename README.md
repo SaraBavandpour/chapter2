@@ -1,6 +1,8 @@
 # chapter2
 
 # Enter point2 in VSCode before using GitHub
+I copied the codes.
+
 
 ![Steven_F_Lott_Dusty_Phillips_Python_Object_Oriented_Programming (2) pdf - Google Chrome 4_19_2023 10_44_56 PM](https://user-images.githubusercontent.com/130504287/233178122-1ac1aa69-6923-4bfd-b56e-cea139061046.png)
 ![Steven_F_Lott_Dusty_Phillips_Python_Object_Oriented_Programming (2) pdf - Google Chrome 4_19_2023 10_45_18 PM](https://user-images.githubusercontent.com/130504287/233178153-c5e9eeb0-e24c-40cc-9a0f-6db5141562eb.png)
